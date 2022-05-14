@@ -24,9 +24,9 @@ Getting Started with the Nano Currency using JavaScript, curated by https://ever
 - [nanocurrency-js](https://github.com/marvinroger/nanocurrency-js): A toolkit to play with keys, hashes, signatures and more.
 - [nanocurrency-web](https://github.com/numsu/nanocurrency-web-js): A toolkit for interacting with Nano within the browser.
 
-![alt text](xno.png)
 
 ## Community Resources
+![alt text](xno.png)
 - https://reddit.com/nanocurrency
 - https://nano.org/
 - https://hub.nano.org/
