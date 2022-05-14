@@ -1,6 +1,10 @@
 # xno-developers-education
 
-Getting Started with the Nano Currency using JavaScript, curated by https://every.yoga.
+Getting Started with the Nano Currency using JavaScript, curated by 
+
+<a href="http://example.com/" target="_blank">example</a>
+
+https://every.yoga.
 
 ![alt text](readme.png)
 
