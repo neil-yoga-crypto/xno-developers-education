@@ -18,7 +18,7 @@ Getting Started with the Nano Currency using JavaScript, curated by https://ever
 - [Display Your Nano Address with QR Code](https://github.com/neil-yoga/nano-qrcode-starter)
 - [Simple Manual E-mail Based Payment Gateway](https://github.com/neil-yoga/nano-checkout-vuejs-starter.html) 
 ### Backend
-- [Retrieve Latest Transactions](https://github.com/neil-yoga/nano-backend-pull-example)
+- [Retrieve Latest Transactions from Public Nano Node](https://github.com/neil-yoga/nano-backend-pull-example)
 
 ### Libraries
 - [nanocurrency-js](https://github.com/marvinroger/nanocurrency-js): A toolkit to play with keys, hashes, signatures and more.
