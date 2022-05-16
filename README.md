@@ -1,6 +1,6 @@
 # xno-developers-education
 
-Getting Started with the Nano Currency using JavaScript, curated by https://every.yoga.
+Getting Started with the Nano Currency using JavaScript.
 
 ![alt text](readme.png)
 
@@ -20,6 +20,6 @@ Getting Started with the Nano Currency using JavaScript, curated by https://ever
 
 ## Community Resources
 ![alt text](xno.png)
-- Earn Nano: https://reddit.com/codefornano
+- Earn Nano: https://reddit.com/r/codefornano
 - Reddit Community: https://reddit.com/nanocurrency
 - Founders / Foundation: https://nano.org
